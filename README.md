@@ -1,0 +1,2 @@
+# earn_with_ysense
+com.earn_with_ysense.earnrewards.earn_with_ysense
